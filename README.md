@@ -6,11 +6,11 @@ A 2D particle physics simulator coded in C# and uses Monogame Framework for grap
 
 The following are the instructions for running the code:
 
--Download the project as a ZIP file or clone it using GitHub Desktop.
--Open the project in Visual Studio or VS Code.
--Make sure you have C# installed.
-  -If you are using Visual Studio, Install .NET desktop development.
-  -If you are using VS Code, run the following command:
+- Download the project as a ZIP file or clone it using GitHub Desktop.
+- Open the project in Visual Studio or VS Code.
+- Make sure you have C# installed.
+  - If you are using Visual Studio, Install .NET desktop development.
+  - If you are using VS Code, run the following command:
   ```
   code --install-extension ms-dotnettools.csharp
   ```
@@ -18,9 +18,9 @@ The following are the instructions for running the code:
   ```
   dotnet --version
   ```
--Install Monogame
-  -If you are using Visual Studio you can install Monogame through Extensions window.
-  -If you are using VS Code, you can run the following command to install Monogame Templates:
+- Install Monogame
+  - If you are using Visual Studio you can install Monogame through Extensions window.
+  - If you are using VS Code, you can run the following command to install Monogame Templates:
   ```
   dotnet new --install MonoGame.Templates.CSharp
   ```
