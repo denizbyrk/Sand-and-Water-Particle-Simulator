@@ -45,3 +45,19 @@ Select a particle or operation from the panel at the top by clicking on it.
 **Red:** It clears the whole screen.  
 
 You can also change the simulation speed by using the minus and plus buttons at the top right.
+
+## Code
+
+Here is the brief explanation for what the files are responsible for.  
+
+The explanation of the codes are written as comment lines in the code itself.
+
+**Main.cs** The code starts up from here. From here you can manage the screen size, running speed, controls and other management controls of the project.
+
+**Manager.cs** Responsible for management of particles and grid.
+
+**Particle.cs** The parent class of other particles.
+
+**Sand.cs** Controls the behavior of sand particles.
+
+**Water.cs** Controls the behavior of water particles.
