@@ -1,8 +1,8 @@
-#Sand and Water Particles
+# Sand and Water Particles
 
 A 2D particle physics simulator coded in C# and uses Monogame Framework for graphics rendering.
 
-##Installation
+## Installation
 
 The following are the instructions for running the code:
 
@@ -26,7 +26,7 @@ The following are the instructions for running the code:
   ```
 -Run the code
 
-##How to Use
+## How to Use
 
 The project has no keyboard input, it only uses Mouse left click.
 
