@@ -22,7 +22,7 @@ namespace ParticleSimulator {
         public float runSpeed = 60.0f;
         private float minRunSpeed = 10f; //dont set this to lower than 10
         private float maxRunSpeed = 500f;
-        private float speedChange = 10f; //the amount speed change when you click the increase/decrease speed buttons
+        private float speedChange = 10f; //how much the speed would change when you click the increase/decrease speed buttons
 
         //defining textures
         private Texture2D pixel;
