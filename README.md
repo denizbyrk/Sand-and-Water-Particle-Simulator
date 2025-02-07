@@ -2,6 +2,18 @@
 
 A 2D particle physics simulator coded in C# and uses Monogame Framework for graphics rendering.
 
+## Demo
+
+**Might take some time to load**
+
+- **Default Simulation Speed**
+
+<img src="https://github.com/user-attachments/assets/039c64e7-a2b6-49e9-9698-00ef4e50729e" alt="Loading..." width="500">
+
+- **Max Simulation Speed**
+
+<img src="https://github.com/user-attachments/assets/ca821a4b-3e7f-4162-bd79-8101803c43b7" alt="Loading..." width="500">
+
 ## Installation
 
 The following are the instructions for running the code:
